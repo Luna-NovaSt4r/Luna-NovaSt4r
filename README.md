@@ -17,6 +17,8 @@
 
 𖤓 Sometimes afk 
 
+𖤓 C+H freely
+
 𖤓 PLS DO NOT COVER MY PONY ITS SO PMO
 
 𖤓 sign my atabook twin :D
