@@ -9,9 +9,9 @@
 <br>
 <br>
 <br>
-
+<picture>
 <img width="373" height="248" alt="image" src="https://github.com/user-attachments/assets/c7ec8262-c9ca-4730-b9a2-aba68b6728e6" />
-
+<picture/>
                               
 ✦ 𝑨𝑩𝑻 𝑴𝑬 ✦-- <br>
 
