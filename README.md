@@ -1,7 +1,7 @@
 />⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅☾∘∙⊱⋅•⋅⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅
-
+<picture>
 <img width="200" height="200" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/99c1ca1e-4257-4856-a82f-d0fb8231f41c" />
-
+<picture/>
 
 <br>
 <br>
