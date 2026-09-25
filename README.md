@@ -1,5 +1,6 @@
-<img width="195" height="48" alt="image" src="https://github.com/user-attachments/assets/31c2f5c7-a95e-4a8f-8f85-e488a1f2cfb1" />
-
+<picture>
+<img width="995" height="48" alt="image" src="https://github.com/user-attachments/assets/31c2f5c7-a95e-4a8f-8f85-e488a1f2cfb1" />
+<picture/>
 <br>
 <picture>
 <img width="200" height="200" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/99c1ca1e-4257-4856-a82f-d0fb8231f41c" />
