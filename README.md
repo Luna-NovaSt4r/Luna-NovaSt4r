@@ -4,7 +4,8 @@
 <img width="200" height="200" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/99c1ca1e-4257-4856-a82f-d0fb8231f41c" />
 <picture/>
 <picture>
-<img width="434" height="145" alt="#Sua #Bannerart" src="https://github.com/user-attachments/assets/c22ce664-029d-4ffe-9108-6f4ebda1f038" />
+<img width="1199" height="281" alt="image" src="https://github.com/user-attachments/assets/8787987c-95b9-47d4-a3ae-32be745b2e0a" />
+
 <picture/>
 
 <br>
