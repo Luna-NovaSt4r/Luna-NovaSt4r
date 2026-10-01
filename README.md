@@ -20,11 +20,10 @@
 <br>
 <picture>
 <img width="349" height="349" alt="image" src="https://github.com/user-attachments/assets/795fe527-26a3-46cf-b5f2-769ef24386db" />
+✦ CALL ME NOVA/LUNA [I mostly go by Nova]
 
+                     
 
-<picture/>
-                              
-✦ 𝑨𝑩𝑻 𝑴𝑬 ✦-- <br>
 
 𖤓 Sometimes afk 
 
